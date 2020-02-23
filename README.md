@@ -1,2 +1,5 @@
-# string-calculator-katayuno
- A solution for String Calculator Kata made in Agile Aragón Katayuno 2020-02-22
+# String Calculator Kata
+
+Solution for [the kata](https://katalyst.codurance.com/string-calculator) in Agile Aragón [Kata-katayuno con Visual Thinking](https://www.meetup.com/agilearagon/events/268780252/).
+
+The code was written in R
